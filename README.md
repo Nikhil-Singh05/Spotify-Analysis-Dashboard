@@ -21,7 +21,7 @@
 
 ## Key Insights
 - Identified and Transform Data
-- - 789 distinct songs | 342 artists | Avg popularity: 90
+- 789 distinct songs | 342 artists | Avg popularity: 90
 - Albums (562) dominate over singles (269)
 - Singles have highest avg popularity (36%)
 - Taylor Swift leads with 85 songs in dataset
